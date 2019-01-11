@@ -24,7 +24,6 @@ pycrypto==2.6.1
 pygobject==3.30.4
 pygpgme==0.3
 pyparsing==2.3.0
-python-apt==0.7.8
 python-dateutil==2.7.5
 pytz==2018.9
 requests==2.21.0
