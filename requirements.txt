@@ -33,7 +33,7 @@ stevedore==1.30.0
 urllib3==1.24.1
 virtualenv==16.2.0
 virtualenv-clone==0.4.0
-virtualenvwrapper==4.8.2
+virtualenvwrapper==4.8.4
 wadllib==1.3.3
 wheel==0.32.3
 zope.interface==4.6.0
