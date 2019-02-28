@@ -1,7 +1,7 @@
 Django==1.11.20
 Pillow==2.3.0
 SecretStorage==2.3.1
-argparse==1.2.1
+argparse==1.4.0
 chardet==3.0.4
 colorama==0.2.5
 configobj==5.0.6
