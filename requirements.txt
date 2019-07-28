@@ -7,7 +7,7 @@ colorama==0.4.1
 configobj==5.0.6
 decorator==4.4.0
 html5lib==1.0.1
-httplib2==0.12.1
+httplib2==0.13.1
 ipython==7.3.0
 keyring==18.0.1
 launchpadlib==1.10.7
