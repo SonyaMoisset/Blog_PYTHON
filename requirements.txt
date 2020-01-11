@@ -9,7 +9,7 @@ decorator==4.4.0
 html5lib==1.0.1
 httplib2==0.13.1
 ipython==7.3.0
-keyring==21.0.0
+keyring==21.1.0
 launchpadlib==1.10.9
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
