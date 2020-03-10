@@ -36,4 +36,4 @@ virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 wadllib==1.3.3
 wheel==0.33.4
-zope.interface==4.7.1
+zope.interface==4.7.2
