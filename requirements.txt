@@ -10,7 +10,7 @@ html5lib==1.1
 httplib2==0.18.0
 ipython==7.3.0
 keyring==21.1.0
-launchpadlib==1.10.10
+launchpadlib==1.10.13
 lazr.restfulclient==0.14.3
 lazr.uri==1.0.3
 lockfile==0.12.2
