@@ -1,4 +1,4 @@
-Django==3.1.8
+Django==3.1.12
 Pillow==8.2.0
 SecretStorage==3.1.2
 argparse==1.4.0
