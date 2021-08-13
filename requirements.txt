@@ -3,7 +3,7 @@ Pillow==8.3.1
 SecretStorage==3.3.1
 argparse==1.4.0
 chardet==3.0.4
-colorama==0.4.3
+colorama==0.4.4
 configobj==5.0.6
 decorator==4.4.0
 html5lib==1.1
