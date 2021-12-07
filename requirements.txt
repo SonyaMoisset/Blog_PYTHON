@@ -18,7 +18,7 @@ lpthw.web==1.1
 matplotlib==3.5.0
 numpy==1.21.4
 oauth==1.0.1
-paramiko==2.8.0
+paramiko==2.8.1
 pexpect==4.7.0
 pycrypto==2.6.1
 pyparsing==3.0.6
