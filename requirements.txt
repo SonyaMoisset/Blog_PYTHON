@@ -1,5 +1,5 @@
 Django==4.0.1
-Pillow==8.4.0
+Pillow==9.0.0
 SecretStorage==3.3.1
 argparse==1.4.0
 chardet==4.0.0
