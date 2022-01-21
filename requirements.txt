@@ -19,7 +19,7 @@ matplotlib==3.5.1
 numpy==1.21.5
 oauth==1.0.1
 paramiko==2.9.2
-pexpect==4.7.0
+pexpect==4.8.0
 pycrypto==2.6.1
 pyparsing==3.0.7
 python-dateutil==2.8.2
