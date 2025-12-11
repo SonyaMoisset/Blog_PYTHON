@@ -15,7 +15,7 @@ lazr.restfulclient==0.14.5
 lazr.uri==1.0.7
 lockfile==0.12.2
 lpthw.web==1.1
-matplotlib==3.5.1
+matplotlib==3.10.8
 numpy==1.22.3
 oauth==1.0.1
 paramiko==3.4.1
