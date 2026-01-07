@@ -30,7 +30,7 @@ simplegeneric==0.8.1
 simplejson==3.17.6
 six==1.16.0
 stevedore==3.5.2
-urllib3==2.6.0
+urllib3==2.6.3
 virtualenv==20.26.6
 virtualenv-clone==0.5.7
 virtualenvwrapper==4.8.4
