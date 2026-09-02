@@ -21,7 +21,7 @@ oauth==1.0.1
 paramiko==3.4.1
 pexpect==4.8.0
 pycrypto==2.6.1
-pyparsing==3.0.8
+pyparsing==3.3.2
 python-dateutil==2.8.2
 pytz==2022.7.1
 requests==2.32.5
